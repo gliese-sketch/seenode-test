@@ -9,5 +9,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(80, "0.0.0.0", () => {
-  console.log("Server is running on port 8080");
+  console.log("Service active on Seenode ✔️");
 });
